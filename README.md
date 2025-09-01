@@ -2,11 +2,12 @@
 
 Download arch_base.sh -> [arch_base.sh](https://github.com/bakedtoastplease/arch-install-new/arch_base.sh)
 Using:
-'''
+```
 nano arch_base.sh
+> save with CTRL+O, Enter, CTRL+X
 chmod +x arch_base.sh
 ./arch_base.sh
-'''
+```
 > ⚠️ Possible dangers in arch_base.sh
 Wrong partitions (/dev/sda1, /dev/sda2)
 If you put the wrong disk/partition, you can overwrite another OS or delete your data.
