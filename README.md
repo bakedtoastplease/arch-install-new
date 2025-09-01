@@ -1,6 +1,6 @@
 # Arch Install Method!
 
-Download arch_base.sh -> [arch_base.sh](https://github.com/bakedtoastplease/arch-install-new/arch_base.sh)
+Download arch_base.sh -> [arch_base.sh](https://raw.githubusercontent.com/bakedtoastplease/arch-install-new/refs/heads/main/arch_base.sh)
 Using:
 ```
 nano arch_base.sh
