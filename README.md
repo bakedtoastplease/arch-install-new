@@ -4,7 +4,9 @@ Download arch_base.sh -> [arch_base.sh](https://github.com/bakedtoastplease/arch
 Using:
 ```
 nano arch_base.sh
+```
 > save with CTRL+O, Enter, CTRL+X
+```
 chmod +x arch_base.sh
 ./arch_base.sh
 ```
